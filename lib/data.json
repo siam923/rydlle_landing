@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Jute Tote Bag",
+    "image": "/5.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jute Bottle Carrier",
+    "image": "/1.webp"
+  },
+  {
+    "id": 3,
+    "name": "Jute Yoga Mat",
+    "image": "/2.webp"
+  },
+  {
+    "id": 4,
+    "name": "Jute Plant Hanger",
+    "image": "/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Jute Laptop Sleeve",
+    "image": "/3.jpg"
+  }
+]
